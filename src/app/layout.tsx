@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Nomadule",
   description: "Nomadule Site",
+  other: {
+    'google-site-verification': "-Te9WUzfZDx7xrSUssWgHAvDj3QnFEeKTv6Wphx87Xg",
+  },
 };
 
 export default function RootLayout({
