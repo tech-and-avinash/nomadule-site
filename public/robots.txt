@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://site-nomadule.netlify.app
+
+# Sitemaps
+Sitemap: https://site-nomadule.netlify.app/sitemap.xml
