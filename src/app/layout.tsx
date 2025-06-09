@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   other: {
     'google-site-verification': "-Te9WUzfZDx7xrSUssWgHAvDj3QnFEeKTv6Wphx87Xg",
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
